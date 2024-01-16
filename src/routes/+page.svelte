@@ -18,14 +18,14 @@
         This club aims to bring about a change in the standard discourse on astronomy by making the topic more interesting by providing a hands-on approach to the many exciting challenges faced by astronomy and astrophysics.
     </p>
 
-    <div class="flex">
+    <div class="flex gap-10">
         <!-- LinkedIn Icon with Link -->
-        <a href="https://www.linkedin.com/company/dhruva-astronomy/" target="_blank" rel="noopener noreferrer">
+        <a class="text-green-400 hover:text-blue-500 transition p-4" href="https://www.linkedin.com/company/dhruva-astronomy/" target="_blank" rel="noopener noreferrer">
           LinkedIn
         </a>
       
         <!-- Instagram Icon with Link -->
-        <a href="https://www.instagram.com/dhruva_rvce/" target="_blank" rel="noopener noreferrer">
+        <a class="text-green-400 hover:text-blue-500 transition p-4" href="https://www.instagram.com/dhruva_rvce/" target="_blank" rel="noopener noreferrer">
           Instagram
         </a>
     </div>
